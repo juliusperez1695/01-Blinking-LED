@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Sep  7 10:42:17 2026
+# Process ID: 41508
+# Current directory: C:/Xilinx/ECE520/lab1_rgb_led_juliusperez/lab1_rgb_led_juliusperez.runs/impl_1
+# Command line: vivado.exe -log rgb_led_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rgb_led_top.tcl -notrace
+# Log file: C:/Xilinx/ECE520/lab1_rgb_led_juliusperez/lab1_rgb_led_juliusperez.runs/impl_1/rgb_led_top.vdi
+# Journal file: C:/Xilinx/ECE520/lab1_rgb_led_juliusperez/lab1_rgb_led_juliusperez.runs/impl_1\vivado.jou
+# Running On: JC-DellPrem, OS: Windows, CPU Frequency: 3686 MHz, CPU Physical cores: 16, Host memory: 33777 MB
+#-----------------------------------------------------------
+source rgb_led_top.tcl -notrace

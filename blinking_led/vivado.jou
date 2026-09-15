@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Sep  6 14:12:30 2026
+# Process ID: 19540
+# Current directory: C:/Xilinx/ECE520/blinking_led
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent62956 C:\Xilinx\ECE520\blinking_led\blinking_led.xpr
+# Log file: C:/Xilinx/ECE520/blinking_led/vivado.log
+# Journal file: C:/Xilinx/ECE520/blinking_led\vivado.jou
+# Running On: JC-DellPrem, OS: Windows, CPU Frequency: 3686 MHz, CPU Physical cores: 16, Host memory: 33777 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Xilinx/ECE520/blinking_led/blinking_led.xpr
+update_compile_order -fileset sources_1
